@@ -44,17 +44,6 @@ date_format = "January 2006"
 
     [[experience]]
       title = "Post-doctoral research associate"
-      company = "Iowa State University"
-      company_url = "https://www.iastate.edu"
-      location = "Ames, IA"
-      date_start = "2014-01-01"
-      date_end = "2016-01-31"
-      description = """
-      Worked on many projects related to NGS including genome assembly and annotation of teosinte and streptochaeta
-      """
-
-    [[experience]]
-      title = "Post-doctoral research associate"
       company = "Purdue University"
       company_url = "https://www.purdue.edu"
       location = "West Lafayette, IN"
