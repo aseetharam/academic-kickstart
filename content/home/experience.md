@@ -51,30 +51,5 @@ date_format = "January 2006"
       date_end = "2013-12-31"
       description = "Multiple projects at Bioinformatics core"
 
-    [[experience]]
-      title = "Adjunct Faculty"
-      company = "Indiana State University"
-      company_url = "https://www.indstate.edu"
-      location = "Terre Haute, IN"
-      date_start = "2011-07-01"
-      date_end = "2012-06-31"
-      description = "Taught Bioinformatics and Recombinant DNA technology, graduate level courses"
 
-    [[experience]]
-      title = "Teaching Assistant"
-      company = "Indiana State University"
-      company_url = "https://www.indstate.edu"
-      location = "Terre Haute, IN"
-      date_start = "2007-08-01"
-      date_end = "2011-06-31"
-      description = "Taught introductory biology and genetics courses for undergraduate students (lab)"
-
-    [[experience]]
-      title = "Research Assistant"
-      company = "University of Agril Sciences (D)"
-      company_url = "http://uasd.edu"
-      location = "Dharwad, Karnataka, India"
-      date_start = "2006-08-01"
-      date_end = "2007-04-31"
-      description = "Differential gene expression analyses"
 +++
