@@ -33,23 +33,23 @@ date_format = "January 2006"
   * Support collaborative research efforts with faculty
   """
 
-  [[experience]]
-    title = "Post-doctoral research associate"
-    company = "Iowa State University"
-    company_url = "https://www.iastate.edu"
-    location = "Ames, IA"
-    date_start = "2014-01-01"
-    date_end = "2016-01-31"
-    description = "Worked on many projects related to NGS including genome assembly and annotation of teosinte and Streptochaeta"
+[[experience]]
+  title = "Post-doctoral research associate"
+  company = "Iowa State University"
+  company_url = "https://www.iastate.edu"
+  location = "Ames, IA"
+  date_start = "2014-01-01"
+  date_end = "2016-01-31"
+  description = "Worked on many projects related to NGS including genome assembly and annotation of teosinte and Streptochaeta"
 
-    [[experience]]
-      title = "Post-doctoral research associate"
-      company = "Purdue University"
-      company_url = "https://www.purdue.edu"
-      location = "West Lafayette, IN"
-      date_start = "2012-07-01"
-      date_end = "2013-12-31"
-      description = "Multiple projects at Bioinformatics core"
+[[experience]]
+  title = "Post-doctoral research associate"
+  company = "Purdue University"
+  company_url = "https://www.purdue.edu"
+  location = "West Lafayette, IN"
+  date_start = "2012-07-01"
+  date_end = "2013-12-31"
+  description = "Multiple projects at Bioinformatics core"
 
 
 +++
