@@ -21,8 +21,9 @@ email = "arnstrm@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Plant and Animal Genomics",
-  "bioinformatics",
-  "epigenetics"
+  "Bioinformatics",
+  "Evolutionary Genomics",
+  "Epigenetics"
 ]
 
 # List qualifications (such as academic degrees)
@@ -32,13 +33,13 @@ interests = [
   year = 2012
 
 [[education.courses]]
-  course = "MSc Agriculture (Plant Biotechnology)"
-  institution = "University of Agricultural Sciences Dharward"
+  course = "MSc in Plant Biotechnology"
+  institution = "University of Agricultural Sciences, Dharward"
   year = 2006
 
 [[education.courses]]
   course = "BSc in Agriculture"
-  institution = "University of Agricultural Sciences Bangalore"
+  institution = "University of Agricultural Sciences, Bangalore"
   year = 2003
 
 # Social/Academic Networking
