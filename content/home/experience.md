@@ -40,7 +40,9 @@ date_format = "January 2006"
   location = "Ames, IA"
   date_start = "2014-01-01"
   date_end = "2016-01-31"
-  description = """Worked on many projects related to NGS including genome assembly and annotation of teosinte and streptochaeta"""
+  description = """
+  Worked on many projects related to NGS including genome assembly and annotation of teosinte and streptochaeta
+  """
 
 [[experience]]
   title = "Post-doctoral research associate"
@@ -49,7 +51,9 @@ date_format = "January 2006"
   location = "West Lafayette, IN"
   date_start = "2012-07-01"
   date_end = "2013-12-31"
-  description = """Multiple projects at Bioinformatics core"""
+  description = """
+  Multiple projects at Bioinformatics core
+  """
 
 [[experience]]
   title = "Adjunct Faculty"
@@ -58,7 +62,9 @@ date_format = "January 2006"
   location = "Terre Haute, IN"
   date_start = "2011-07-01"
   date_end = "2012-06-31"
-  description = """Taught Bioinformatics and Recombinant DNA technology, graduate level courses"""
+  description = """
+  Taught Bioinformatics and Recombinant DNA technology, graduate level courses
+  """
 
 [[experience]]
   title = "Teaching Assistant"
@@ -67,7 +73,9 @@ date_format = "January 2006"
   location = "Terre Haute, IN"
   date_start = "2007-08-01"
   date_end = "2011-06-31"
-  description = """Taught introductory biology and genetics courses for undergraduate students (lab)"""
+  description = """
+  Taught introductory biology and genetics courses for undergraduate students (lab)
+  """
 
 [[experience]]
   title = "Research Assistant"
@@ -76,6 +84,7 @@ date_format = "January 2006"
   location = "Dharwad, Karnataka, India"
   date_start = "2006-08-01"
   date_end = "2007-04-31"
-  description = """Differential gene expression analyses """        
-
+  description = """
+  Differential gene expression analyses        
+"""
 +++
