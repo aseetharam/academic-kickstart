@@ -40,8 +40,6 @@ date_format = "January 2006"
     location = "Ames, IA"
     date_start = "2014-01-01"
     date_end = "2016-01-31"
-    description = """
-    Worked on many projects related to NGS including genome assembly and annotation of teosinte and streptochaeta
-    """
+    description = "Worked on many projects related to NGS including genome assembly and annotation of teosinte and Streptochaeta"
 
 +++
