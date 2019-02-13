@@ -51,5 +51,12 @@ date_format = "January 2006"
   date_end = "2013-12-31"
   description = "Multiple projects at Bioinformatics core"
 
-
+[[experience]]
+  title = "Adjunct Faculty"
+  company = "Indiana State University"
+  company_url = "https://www.indstate.edu"
+  location = "Terre Haute, IN"
+  date_start = "2011-07-01"
+  date_end = "2012-06-31"
+  description = "Taught Bioinformatics and Recombinant DNA technology, graduate level courses"
 +++
