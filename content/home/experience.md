@@ -22,14 +22,14 @@ date_format = "January 2006"
   title = "Associate Scientist"
   company = "Genome Informatics Facility"
   company_url = "https://gif.biotech.iastate.edu"
-  location = "Ames"
+  location = "Ames, IA"
   date_start = "2016-02-01"
   date_end = ""
   description = """
   Responsibilities include:
 
-  * Developing and building novel cyber-infrastructure
-  * Research, investigate, develop, evaluate and implement methods for analyzing data
+  * Developing and build novel cyber-infrastructure
+  * Investigate, develop, evaluate and implement data analyses methods
   * Support collaborative research efforts with faculty
   """
 
