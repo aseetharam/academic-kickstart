@@ -13,33 +13,33 @@ role = "Associate Scientist at Genome Informatics Facility"
 organizations = [ { name = "Iowa State University", url = "https://gif.biotech.iastate.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My main interests are in the fields of bioinformatics and evolutionary genomics, trying to decipher genome structure, function and architecture. My long-term goal is to study the genome organization and evolution of grass species"
+bio = "Bioinformatician, studying evolutionary genomics, trying to decipher genome structure, function, and architecture."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "arnstrm@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Plant and Animal Genomics",
+  "bioinformatics",
+  "epigenetics"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Biology"
+  institution = "Indiana State University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc Agriculture (Plant Biotechnology)"
+  institution = "University of Agricultural Sciences Dharward"
+  year = 2006
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Agriculture"
+  institution = "University of Agricultural Sciences Bangalore"
+  year = 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,32 +49,30 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:arnstrm@gmail.com".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/ArunSeetharam"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=Itos2p8AAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/aseetharam"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main interests are in the fields of bioinformatics and evolutionary genomics. Currently, I am working on various projects involving next-generation/third generation sequencing including the first multiple genome assembly projects. I am also developing pipelines to streamline the assembly and annotation process for newly sequenced organisms. My long-term goal is to study the genome structure, architecture, and evolution in grasses.
