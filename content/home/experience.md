@@ -49,14 +49,15 @@ date_format = "January 2006"
   location = "West Lafayette, IN"
   date_start = "2012-07-01"
   date_end = "2013-12-31"
-  description = "Multiple projects at Bioinformatics core"
+  description = "Worked on many projects related to NGS including conducting workshops"
 
 [[experience]]
-  title = "Post-doctoral research associate"
-  company = "Purdue University"
-  company_url = "https://www.purdue.edu"
-  location = "West Lafayette, IN"
-  date_start = "2012-07-01"
+  title = "Adjunct Faculty"
+  company = "Indiana State University"
+  company_url = "https://www.indstate.edu"
+  location = "Terre Haute, IN"
+  date_start = "2011-07-01"
+  date_end = "2012-06-31"
   description = "Multiple projects at Bioinformatics core"
 
 +++
