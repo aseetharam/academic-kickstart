@@ -60,12 +60,4 @@ date_format = "January 2006"
     date_end = "2013-12-31"
     description = "Multiple projects at Bioinformatics core"
 
-      [[experience]]
-        title = "Post-doctoral research associate"
-        company = "Purdue University"
-        company_url = "https://www.purdue.edu"
-        location = "West Lafayette, IN"
-        date_start = "2012-07-01"
-        date_end = "2013-12-31"
-        description = "Multiple projects at Bioinformatics core"
   +++
