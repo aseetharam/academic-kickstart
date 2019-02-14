@@ -51,7 +51,7 @@ date_format = "January 2006"
   date_end = "2013-12-31"
   description = "Multiple projects at Bioinformatics core"
 
-  [[experience]]
+[[experience]]
   title = "Post-doctoral research associate"
   company = "Purdue University"
   company_url = "https://www.purdue.edu"
