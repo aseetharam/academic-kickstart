@@ -59,4 +59,4 @@ date_format = "January 2006"
   date_start = "2012-07-01"
   description = "Multiple projects at Bioinformatics core"
 
-  +++
++++
